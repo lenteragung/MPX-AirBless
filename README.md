@@ -18,7 +18,7 @@ git clone https://github.com/mrpiratexd-khun/AirBless.git && cd AirBless && AIRB
 
 ### Features
 
-Easy User Interface and Commnads 
+Easy User Interface and Commands 
 
 ### 1.The AirBless Manager
 
